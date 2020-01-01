@@ -10,4 +10,4 @@
 <p><img src="https://ibb.co/3sLTFFM" alt="" /><img src="https://i.ibb.co/VNPLCCQ/ht2.png" alt="" width="874" height="196" /></p>
 <p>&nbsp;</p>
 <p><strong>See the result on interactive map&nbsp;</strong></p>
-<p><img src="https://i.ibb.co/58x2z2Z/ht3.png" alt="" width="1148" height="557" /></p>
+<p><img src="https://i.ibb.co/58x2z2Z/ht3.png" alt="" width="1051" height="510" /></p>
