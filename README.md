@@ -12,4 +12,4 @@ http://atageomatic.pythonanywhere.com/
 <p><img src="https://ibb.co/3sLTFFM" alt="" /></p>
 <p>&nbsp;</p>
 <p><strong>See the result on interactive map&nbsp;</strong></p>
-<p><img src="https://i.ibb.co/58x2z2Z/ht3.png" alt="" width="1051" height="510" /></p>
+<p><img src="https://i.ibb.co/58x2z2Z/ht3.png" alt="" width="1050" height="510" /></p>
